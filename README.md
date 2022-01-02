@@ -1,1 +1,1 @@
-# C++-BMI Calculator
+BMI Calculator using C++
